@@ -1,57 +1,41 @@
+<h1 align="center">Hi Dear 👋, I'm Phongphat Bangkha</h1>
+<h3 align="center">A Passionate about Machine Learning , AI from Thailan</h3>
 
-## 🚀 Basic About Me
-ผมเป็น นักศึกษา กำลังศึกษาอยู่ที่ มหาลัยพระจอมเกล้าพระนครเหนือ
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ra9t0r&label=Profile%20views&color=0e75b6&style=flat" alt="ra9t0r" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ra9t0r" alt="ra9t0r" /></a> </p>
 
-# Hi, I'm Phongphat (RA9T0R)! 👋
+- 🔭 I’m currently Study on [King Mongkut's University of Technology North Bangkok](https://www.kmutnb.ac.th/about/orgmap_bkk.aspx?lang=en)
 
+- 🌱 I’m currently learning **Data structures and Algorithms , OOP**
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
-[![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/RA9T0R)
+- 👯 I’m looking to collaborate on **-**
 
+- 🤝 I’m looking for help with **-**
 
+- 👨‍💻 All of my projects are available at [Not Yet](Not Yet)
 
-## Other Common Github Profile Sections
-👩‍💻 Name : Phongphat Bangkha _ Nickname : Golf
+- 📝 I regularly write articles on [NON](NON)
 
-🧠 ชื่อ : พงษ์พัฒน์ บางข่า _ ชื่อเล่น : กอล์ฟ
+- 💬 Ask me about **You Can Ask Anything But I May Not See You Question**
 
-👯‍♀️ Hobby : Watch Movie,Series,Youtube ___ งานอดิเรก : ดู หนัง,ซีรี่,ยูทูป
+- 📫 How to reach me **phongphatbangkha@gmail.com**
 
-🤔 I'm looking for help with...
+- 📄 Know about my experiences [Now I Just as collegian](Now I Just as collegian)
 
-💬 Ask me about
+- ⚡ Fun fact **I Am Like To Watch Movie,Cartoon,Series,Anime and Play Game**
 
-📫 ช่องทางติดต่อทาง Gmail ได้เลย
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/phongphat bangkha (raptor)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phongphat bangkha (raptor)" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/yZVPqJB8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/yZVPqJB8" height="30" width="40" /></a>
+</p>
 
-😄 Pronouns...
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-⚡️ Fun fact...
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ra9t0r&show_icons=true&locale=en&layout=compact" alt="ra9t0r" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ra9t0r&show_icons=true&locale=en" alt="ra9t0r" /></p>
 
-## 🛠 Skills
-C , C++ , Java , SQL , Python
-
-
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
-
-![Logo](https://images.pexels.com/photos/1421903/pexels-photo-1421903.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
-
-
-## Roadmap
-
-- จบปี 4
-
-- มีเงินเดือนเยอะจัดๆ
-
-
-## Authors
-
-- [@RA9T0R](https://github.com/RA9T0R)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ra9t0r&" alt="ra9t0r" /></p>
