@@ -1,5 +1,5 @@
 <h1 align="center">Hi Dear 👋, I'm Phongphat Bangkha</h1>
-<h3 align="center">A Passionate about Machine Learning , AI from Thailan</h3>
+<h3 align="center">A Passionate about Machine Learning , AI from Thailan (But NOW I am Just Noob About This Programer World)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ra9t0r&label=Profile%20views&color=0e75b6&style=flat" alt="ra9t0r" /> </p>
 
