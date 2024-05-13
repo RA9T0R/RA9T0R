@@ -5,7 +5,7 @@
 <h3 align="center">A Passionate about Machine Learning , AI from Thailan<br>(But NOW I am Just Noob About This Programer World)</h3>
 
 ###
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ra9t0r" alt="ra9t0r" /></a> </p>  - 🔭 I’m currently Study on [King Mongkut's University of Technology North Bangkok](https://www.kmutnb.ac.th/about/orgmap_bkk.aspx?lang=en)  - 🌱 I’m currently learning **Data structures and Algorithms , OOP**  - 👯 I’m looking to collaborate on **-**  - 🤝 I’m looking for help with **-**  - 👨‍💻 All of my projects are available at [Not Yet](Not Yet)  - 📝 I regularly write articles on [NON](NON)  - 💬 Ask me about **You Can Ask Anything But I May Not See You Question**  - 📫 How to reach me **phongphatbangkha@gmail.com**  - 📄 Know about my experiences [Now I Just as collegian](Now I Just as collegian)  - ⚡ Fun fact **I Am Like To Watch Movie,Cartoon,Series,Anime and Play Game**
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ra9t0r" alt="ra9t0r" /></a>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RA9T0R&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
