@@ -56,6 +56,7 @@
 </div>
 
 ###
+<br clear="both">
 <div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RA9T0R&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>
