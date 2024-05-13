@@ -59,6 +59,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/RA9T0R/RA9T0R/output/snake.svg" alt="Snake animation" />
+![](https://github-readme-streak-stats.herokuapp.com/?user=RA9T0R&theme=dark&hide_border=false)<br/>
+
 
 ###
