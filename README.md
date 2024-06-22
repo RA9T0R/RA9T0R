@@ -67,10 +67,24 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RA9T0R&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a></div>
 <br/>  
 
-
-## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-> Learning will set us free.
+```c++
+#include <iostream>
+using namespace std;
+int main(){
+
+    int knowledge = 0;
+    long successful = 99;
+
+    while (knowledge < successful)
+    {
+        cout << "Learing\n";
+        knowlage++;
+    }
+    cout << "Live the Life :)";
+
+}
+```
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
