@@ -74,7 +74,7 @@ using namespace std;
 int main(){
 
     int knowledge = 0;
-    long successful = 99;
+    long successful = 99999999;
 
     while (knowledge < successful)
     {
