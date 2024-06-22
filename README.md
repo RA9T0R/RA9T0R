@@ -1,4 +1,4 @@
-## **<div align="center">Hi 👋! My name is Phongphat Bangkha and I'm from Thailand 🚀</div>**  
+# **<div align="center">Hi 👋! My name is Phongphat Bangkha and I'm from Thailand 🚀</div>**  
   
 
 - 🔭 I’m currently study in KMUTNB Unversity [(มจพ)](https://www.kmutnb.ac.th/)  
