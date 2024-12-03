@@ -105,17 +105,17 @@
 ```c++
 #include <iostream>
 using namespace std;
-int main(){
 
+int main() {
     int knowledge = 0;
     long successful = 99999999;
 
-    while (knowledge < successful)
-    {
-        cout << "Learing\n";
-        knowlage++;
+    while (knowledge < successful) {
+        cout << "Learning\n"; 
+        knowledge++;          
     }
     cout << "Live the Life :)";
 
+    return 0;
 }
 ```
